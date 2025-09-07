@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Jackson.
 I'm a computer science student at Purdue University Northwest with a passion for building and a focus on learning new technologies.
 As a junior, I'm committed to applying my skills to real-world problems.
 <!--
