@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a computer science student at Purdue University Northwest with a passion for building and a focus on learning new technologies.
+As a junior, I'm committed to applying my skills to real-world problems.
 <!--
 **jackson-trader/jackson-trader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
