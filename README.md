@@ -1,6 +1,6 @@
 # Hi, I'm Jackson 👋
 
-### I am a junior computer science student at Purdue University Northwest with a passion for building projects and I love learning about technology.
+### I am a junior computer science student at Purdue University Northwest with a passion for building projects, and I love learning about technology.
 
 - 🔭 I'm currently working on a **supervised maching learning email spam classifier**
 
