@@ -1,16 +1,16 @@
-# Hi 👋, I'm Jackson Trader
+# Hi, I'm Jackson 👋
 
 ### I am a junior computer science student at Purdue University Northwest with a passion for building projects and I love learning about technology.
 
-- 🔭 I'm currently working on **supervised maching learning email spam classifier**
+- 🔭 I'm currently working on a **supervised maching learning email spam classifier**
 
 - 🌱 I'm currently learning **full-stack software development**
 
-- 📫 How to reach me **jackson.trader.dev@gmail.com**
+- 📫 How to reach me: **jackson.trader.dev@gmail.com**
 
-- ⚡ Fun fact **I enjoy creating 3D models on Blender**
+- ⚡ Fun fact: **I enjoy creating 3D printing and modeling**
 
-- 📄 Know about my experiences **[https://iwillfixthis.soon](https://iwillfixthis.soon)**
+<!-- - 📄 Know about my experiences **[https://iwillfixthis.soon](https://iwillfixthis.soon)** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
