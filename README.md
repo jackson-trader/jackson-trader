@@ -1,13 +1,13 @@
 <h1 align="center">Hi there! I'm Jackson 👋</h1>
 <h3 align="center">I am a computer science student at Purdue University Northwest with a passion for building projects and I love learning about technology. As a junior, I am committed to applying my skills to real-world problems.</h3>
 
-- 🔭 I’m currently working on [a supervised maching learning email spam classifier.](https://github.com/jackson-trader/CS462-Email-Spam-Classifier)
+- 🔭 I’m currently working on a [supervised maching learning email spam classifier.](https://github.com/jackson-trader/CS462-Email-Spam-Classifier)
 
-- 🌱 I’m currently learning **about full-stack software development.**
+- 🌱 I’m currently learning about **full-stack software development.**
 
-- 📫 How to reach me **jackson.trader.dev@gmail.com**
+- 📫 How to reach me: **jackson.trader.dev@gmail.com**
 
-- ⚡ Fun fact **I enjoy creating 3D models on Blender.**
+- ⚡ Fun fact: **I enjoy creating 3D models on Blender.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
