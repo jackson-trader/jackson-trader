@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Jackson 👋</h1>
-<h3 align="center">I am a computer science student at Purdue University Northwest with a passion for building projects and I love learning about technology. As a junior, I am committed to applying my skills to real-world problems.</h3>
+<h3 align="center">I am a junior computer science student at Purdue University Northwest with a passion for building projects and I love learning about technology.</h3>
 
 - 🔭 I’m currently working on a [supervised maching learning email spam classifier.](https://github.com/jackson-trader/CS462-Email-Spam-Classifier)
 
