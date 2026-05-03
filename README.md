@@ -17,8 +17,8 @@ I have a passion for building hands-on projects, and I love learning about techn
   <a href="https://linkedin.com/in/jackson-trader" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="linkedin"
-         height="30"
-         width="30" />
+         height="50"
+         width="50" />
   </a>
 </p>
 
