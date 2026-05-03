@@ -14,17 +14,10 @@ I have a passion for building hands-on projects, and I love learning about techn
 <h3 align="left">Connect with me:</h3>
 
 <p align="left" style="display: flex; gap: 12px; align-items: center;">
-  <a href="https://github.com/jackson-trader" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-         alt="github"
-         height="30"
-         width="40" />
-  </a>
-
   <a href="https://linkedin.com/in/jackson-trader" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="linkedin"
-         height="30"
+         height="40"
          width="40" />
   </a>
 </p>
