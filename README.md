@@ -13,12 +13,12 @@ I have a passion for building hands-on projects, and I love learning about techn
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left" style="display: flex; gap: 12px; align-items: center;">
+<p align="left" style="display: flex; gap: 10px; align-items: center;">
   <a href="https://linkedin.com/in/jackson-trader" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="linkedin"
-         height="50"
-         width="50" />
+         height="40"
+         width="40" />
   </a>
 </p>
 
