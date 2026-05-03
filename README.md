@@ -19,5 +19,5 @@ I have a passion for building hands-on projects, and I love learning about techn
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,java,jupyter,matplotlib,numpy,postgres,python,sklearn&perline=8" />
+<img src="https://skillicons.dev/icons?i=c,java,jupyter,matplotlib,numpy,postgres,python,sklearn&perline=4" />
 </p>
