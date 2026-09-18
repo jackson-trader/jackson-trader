@@ -1,6 +1,6 @@
 # Hi, I'm Jackson 👋
 
-### I am a junior computer science student at Purdue University Northwest minoring in Cybersecurity as well.
+### I am a senior computer science student at Purdue University Northwest minoring in Cybersecurity as well.
 I have a passion for building hands-on projects, and I love learning about technology.
 
 - 🌱 I'm currently learning about **IT security**
