@@ -3,9 +3,7 @@
 ### I am a senior computer science student at Purdue University Northwest minoring in Cybersecurity as well.
 I have a passion for building hands-on projects, and I love learning about technology.
 
-- 🌱 I'm currently learning about **IT security**
-
-- 📫 How to reach me: **jackson.trader.dev@gmail.com**
+- 🌱 I'm currently learning about **Embedded Software Engineering**
 
 - ⚡ Fun fact: **I enjoy creating 3D printing and modeling**
 
